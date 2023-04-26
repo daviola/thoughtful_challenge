@@ -1,0 +1,6 @@
+results/excel/*
+results/img/*
+logs/*
+venv
+__pycache__
+*.pyc
